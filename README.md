@@ -8,7 +8,7 @@
 ## Overview on the Project
 
 ### Project:Student Grade Tracker
-![Screenshot 2024-07-07 233126]
+![Screenshot (48)](https://github.com/user-attachments/assets/36ebac08-f10d-431a-8325-ff3504f31050)
 
 ### Objective
 The Student Grade Tracker Java program is a versatile tool designed to streamline the management of student grades within educational environments. It offers a comprehensive suite of features to input, track, analyze, and manage student performance across various subjects or assignments. Here's an overview of its key components and functionalities:
